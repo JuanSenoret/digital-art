@@ -1,0 +1,20 @@
+{
+  "name": "ipfs-ethereum-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "pk <juansenoret@gmail.com> ()",
+  "license": "MIT",
+  "dependencies": {
+    "truffle-hdwallet-provider": "^1.0.0",
+    "web3": "^1.0.0-beta.46"
+  },
+  "devDependencies": {
+    "lite-server": "2.4.0"
+  }
+}
